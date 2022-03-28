@@ -1,5 +1,5 @@
 <h1 align="center">
-Crown-clothing
+Crwn-clothing
 </h1>
 
 <p align="center">Crown-clothing is a Ecommerce clothes application built during the Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL) course</p>
