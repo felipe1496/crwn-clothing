@@ -6,7 +6,7 @@ Crwn-clothing
 <p align="center">Deployed <a href="https://majestic-liger-17949c.netlify.app">here</a>.</p>
 
 <p align="center">
-  <a href="https://github.com/Felipe1496/rocketflix/graphs/contributors">
+  <a href="https://github.com/Felipe1496/crwn-clothing/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/rocketseat/youtube-clone-discord?color=%237159c1&logoColor=%237159c1&style=flat" alt="Contributors">
   </a>
   <a href="https://opensource.org/licenses/MIT">
